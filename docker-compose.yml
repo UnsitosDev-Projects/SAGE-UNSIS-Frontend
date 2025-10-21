@@ -1,0 +1,15 @@
+version: "3.8"
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: sage_frontend
+    ports:
+      - "8081:8081" # Cambia el puerto si es necesario
+    networks:
+      - sage_network_cambiar
+
+networks:
+  sage_network_cambiar:
+    driver: bridge
