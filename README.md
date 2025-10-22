@@ -1,6 +1,6 @@
 # SAGE UNSIS Frontend
 
-Sistema de Administración y Gestión Educativa - Universidad de la Sierra Sur. Aplicación frontend desarrollada con React y arquitectura limpia.
+Sistema de Administración y Gestión de Examenes - Universidad de la Sierra Sur. Aplicación frontend desarrollada con React y arquitectura limpia.
 
 ## Tabla de Contenidos
 
@@ -16,7 +16,7 @@ Sistema de Administración y Gestión Educativa - Universidad de la Sierra Sur. 
 
 ## Descripción
 
-SAGE UNSIS Frontend es la interfaz de usuario del sistema de administración y gestión educativa de la Universidad del Sistema. Este proyecto implementa las mejores prácticas de desarrollo con React, utilizando arquitectura limpia para garantizar la mantenibilidad y escalabilidad del código.
+SAGE UNSIS Frontend es la interfaz de usuario del Sistema de Administración y Gestión de  Examenes de la Universidad de la Universidad de la Sierra Sur. Este proyecto implementa las mejores prácticas de desarrollo con React, utilizando arquitectura limpia para garantizar la mantenibilidad y escalabilidad del código.
 
 ## Tecnologías
 
