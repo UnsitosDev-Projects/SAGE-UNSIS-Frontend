@@ -2,7 +2,7 @@ import { useState } from "react";
 import "./App.css";
 
 // Se importan las páginas
-import Layout from "./components/layout/Layout";
+import Layout from "./pages/layout/Layout";
 import Home from "./pages/home/Home";
 
 function App() {
