@@ -1,0 +1,6 @@
+.aside-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(rgba(58, 158, 224, 0.6), rgba(82, 144, 238, 0.6));
+}
