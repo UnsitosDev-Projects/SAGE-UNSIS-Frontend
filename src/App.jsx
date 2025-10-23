@@ -1,5 +1,9 @@
 import { useState } from "react";
+import { BrowserRouter } from "react-router-dom";
 import "./App.css";
+// Routeos
+import { Routes, Route } from "react-router-dom";
+
 
 // Se importan las páginas
 import Layout from "./pages/layout/Layout";
