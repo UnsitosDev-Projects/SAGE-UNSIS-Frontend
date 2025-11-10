@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # Deploy
-.vercel
+.vercelinstall_nvm.sh
